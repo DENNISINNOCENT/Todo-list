@@ -1,0 +1,17 @@
+
+.delete{
+    display: none;
+
+}
+.checkedContainer{
+    background-color: crimson;
+}
+.checkTodo{
+    text-decoration: line-through;
+}
+.delete-active{
+    display: block;
+}
+.edit-disable{
+    display: none;
+}
